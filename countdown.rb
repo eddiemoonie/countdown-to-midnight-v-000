@@ -18,4 +18,4 @@ def countdown_with_sleep(number)
 end
 
 countdown(12)
-countdown-to-midnight(5)
+countdown_with_sleep(5)
